@@ -1,0 +1,6 @@
+*.crt
+*.key
+node_modules
+*.txt
+
+test.js
